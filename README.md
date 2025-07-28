@@ -70,11 +70,10 @@ Book Appointments
 
 View Reports
 
-👥 Team Contributions
-Team Member |	Responsibility
-Prapti: Database Design & Implementation
-Harshada: Backend Development (Servlets, Logic, Connectivity)
-Winona: Frontend Development (JSP Pages, UI Design)
+👥 *Team Contributions*  
+- *Prapti* – Database Design & Implementation  
+- *Harshada* – Backend Development (Servlets, Logic, Connectivity)  
+- *Winona* – Frontend Development (JSP Pages, UI Design)
 
 
 📃 Future Enhancements

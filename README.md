@@ -62,7 +62,7 @@ Attend Patients
 
 Patient Module
 
-Sign Up / Login
+Sign Up/login
 
 View Profile & Doctors
 
